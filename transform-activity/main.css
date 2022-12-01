@@ -17,3 +17,8 @@ main > div {
   margin: auto;
   padding: 10%;
 }
+
+main {
+  transform: skewX(-10deg);
+  transform: rotate(-10deg);
+}
